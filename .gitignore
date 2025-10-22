@@ -1,0 +1,6 @@
+# Ignorar configuración y uploads
+wp-config.php
+wp-content/uploads/
+*.log
+.DS_Store
+node_modules/
