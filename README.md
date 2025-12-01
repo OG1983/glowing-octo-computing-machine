@@ -1,2 +1,2 @@
 # glowing-octo-computing-machine
-Proyecto de Wordpress
+Proyecto de Wordpress + Woocommerce
